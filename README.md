@@ -1,4 +1,4 @@
-# React Native App with Theme Support
+# React Native App
 
 This project is a React Native application featuring dynamic theming and a stack navigation system. It includes a theme provider for switching between light and dark modes and a stack navigator to move between different screens.
 
